@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+aside{
+    background: #483D8B;
+    height: 150px;
+    width: 30%;
+    float: left;
+}
+
+header{
+    background: #483D8B;
+    height: 150px;
+    width: 70%;
+    float: left;
+}
+
+.calendar-element{
+    background: #AFEEEE;
+    width: 150px;
+    height: 100px;
+    margin: 3px;
+    border: solid 1px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+footer{
+    background: #483D8B;
+    color: white;
+    padding: 10px;
+}
+
+h5{
+    text-align: center;
+}
